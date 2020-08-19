@@ -15,7 +15,7 @@
         <a class="nav-link" href="#">MEDIA</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">MITRA LAWYER</a>
+        <a class="nav-link bg-gray-500" href="#">MITRA LAWYER</a>
       </li>
        <li class="nav-item">
         <a class="nav-link" href="#">KARIR</a>
@@ -132,7 +132,7 @@ export default {
   
 </script>
 
-<style>
+<style src="./assets/style.css">
 body{
   background : #fff;
 }
